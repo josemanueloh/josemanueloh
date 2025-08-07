@@ -4,9 +4,9 @@
     <h3 align="left">
         <ul>
             <li>🔭 Actualmente estoy pensando en qué especializarme.</li>
-            <li>👨‍🎓 I'm learning Php at the moment</li>
-            <li>💬 Ask me about anything you want</li>
-            <li>📫 How to reach me: treysitrysi@gmail.com</li>
+            <li>👨‍🎓 Estoy aprendiendo PHP en este momento</li>
+            <li>💬 Pregunta lo que quieras</li>
+            <li>📫 Edad 23 años</li>
             <li>💼 Estuve 4 meses en Estadia.</li>
         </ul>
     </h3>
